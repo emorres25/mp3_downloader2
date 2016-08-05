@@ -1,4 +1,4 @@
-# mp3_downloader2
+# utubemp3
 mp3 downloader with youtube-dl integration
 <h4>Requirements</h4>
 <ol>
